@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: http://lzk365.wangbin.org/sitemap.xml

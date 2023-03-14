@@ -19,12 +19,13 @@ from recommonmark.transform import AutoStructify
 
 # -- Project information -----------------------------------------------------
 
-project = '医学微视'
-copyright = '2023, yixueweishi'
-author = 'yixueweishi'
+project = '故事会'
+copyright = '2023, 故事会'
+author = 'gushihui'
 
 # The full version, including alpha/beta/rc tags
-release = '0.1
+release = '0.1'
+
 
 # -- General configuration ---------------------------------------------------
 

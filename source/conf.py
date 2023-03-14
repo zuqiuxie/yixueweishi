@@ -19,9 +19,9 @@ from recommonmark.transform import AutoStructify
 
 # -- Project information -----------------------------------------------------
 
-project = '故事会'
-copyright = '2023, 故事会'
-author = 'gushihui'
+project = '医学微视'
+copyright = '2023, 医学微视'
+author = 'yixueweishi'
 
 # The full version, including alpha/beta/rc tags
 release = '0.1'

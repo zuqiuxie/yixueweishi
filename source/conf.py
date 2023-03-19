@@ -23,6 +23,7 @@ project = '医学微视'
 copyright = '2023, 医学微视'
 author = 'yixueweishi'
 
+
 # The full version, including alpha/beta/rc tags
 release = '0.1'
 
@@ -69,3 +70,7 @@ html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
+
+html_js_files = [
+    'tongji.js'
+]

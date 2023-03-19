@@ -74,4 +74,5 @@ html_static_path = ['_static']
 html_js_files = [
     'js/readmore.js',
     'js/baidutongji.js'
+    'js/51tongji.js'
 ]

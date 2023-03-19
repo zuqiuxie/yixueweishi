@@ -72,5 +72,6 @@ html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
 html_static_path = ['_static']
 
 html_js_files = [
-    'baidutongji.js'
+    'js/readmore.js',
+    'js/baidutongji.js'
 ]

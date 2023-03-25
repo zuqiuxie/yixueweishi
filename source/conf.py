@@ -19,8 +19,8 @@ from recommonmark.transform import AutoStructify
 
 # -- Project information -----------------------------------------------------
 
-project = '医学微视'
-copyright = '2023, 医学微视'
+project = '看看专家怎么说'
+copyright = '医学微视'
 author = 'yixueweishi'
 
 

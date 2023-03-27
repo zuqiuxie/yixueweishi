@@ -19,7 +19,7 @@ from recommonmark.transform import AutoStructify
 
 # -- Project information -----------------------------------------------------
 
-project = '看看专家怎么说'
+project = '医学微视'
 copyright = '医学微视'
 author = 'yixueweishi'
 

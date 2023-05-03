@@ -35,3 +35,4 @@ watchdog==0.9.0
 sphinxcontrib-disqus==1.1.0
 sphinx-sitemap==2.2.0
 sphinx-multiversion==0.2.4
+setuptools==50.3.2

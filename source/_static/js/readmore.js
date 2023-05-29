@@ -37,11 +37,11 @@ var setIdTimer = setInterval(function () {
         if (isNeedInt) {
             btw = new BTWPlugin();
             btw.init({
-                id: 'container',
-                blogId: '31049-1685363084229-275'
-                name: '彬彬有礼的彬彬',
-                qrcode: 'https://raw.githubusercontent.com/zuqiuxie/lzk365/main/source/image/logo-binbinyouli.png',
-                keyword: 'yxws',
+                id: id,
+                blogId: '15406-1578143418297-890',
+                name: 'Python编程时光',
+                qrcode: 'http://image.iswbm.com/20200104210733.png',
+                keyword: '1024'
             });
         }
        

@@ -38,7 +38,7 @@ var setIdTimer = setInterval(function () {
             btw = new BTWPlugin();
             btw.init({
                 id: id,
-                blogId: '31049-1685363084229-275',
+                blogId: '31049-1685434819329-579',
                 name: '彬彬有礼的彬彬',
                 qrcode: 'http://yxws.wangbin.org/_images/1685421289785.png',
                 keyword: 'yxws'

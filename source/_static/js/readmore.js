@@ -40,7 +40,7 @@ var setIdTimer = setInterval(function () {
                 id: id,
                 blogId: '31049-1685363084229-275',
                 name: '彬彬有礼的彬彬',
-                qrcode: 'http://yxws.wangbin.org/image/binbinyouli.png',
+                qrcode: 'http://yxws.wangbin.org/image/binbinyouli.jpg',
                 keyword: 'yxws'
             });
         }
